@@ -14,7 +14,9 @@
 			<div class="content row">
 			
 				<section class="main col col-lg-4">
-				Hello This is First Class
+				<?php include="_/components/php/header.php"; ?>
+				
+				
 				</section><!--Main --> 
 				
 				<section class="sidebar col col-lg-4">
