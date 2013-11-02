@@ -7,16 +7,14 @@
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
 	<link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
   </head>
-  <body id="contactus">
+  <body id="Home">
     <h1>Hello, world! My First page on Cloud</h1>
 
 	 <section class="container">
 			<div class="content row">
 			
 				<section class="main col col-lg-4">
-				<?php include="_/components/php/header.php"; ?>
-				
-				
+				Hello This is First Class
 				</section><!--Main --> 
 				
 				<section class="sidebar col col-lg-4">

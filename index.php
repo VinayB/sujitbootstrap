@@ -11,20 +11,19 @@
     <section class="container">
 			<div class="content row">
 			
-				<section class="main col col-lg-4">
+				<section id="branding" class="sidebar col col-lg-3">
+				
+				<a href="index.php"><img src="images/misc/logo.png" alt ="Logo for Ezee serv"> </a> 
+				</section>  <!--Branding -->
+				
+				<section class="main col col-lg-9">
 				<?php include "_/components/php/header.php"; ?>
 				
 				</section><!--Main --> 
 				
-				<section class="sidebar col col-lg-4">
-				Hello This is Second Class
-				</section>
-				
-				<section class="sidebar col col-lg-4">
-				Hello This is Third Class
-				</section>
 				
 				
+								
 			</div> <!-- Content -->
 	 </section> <!-- Container-->
 		
