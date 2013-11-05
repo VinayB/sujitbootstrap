@@ -6,7 +6,7 @@
 			
 			<section class="navbar">
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="index.php">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li><a href="aboutus.php">About us </a></li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Team <span class="caret"></span> </a>
@@ -23,7 +23,7 @@
 							<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Sujit D</a></li>
 						</ul>
 					</li>
-					<li><a href="contactus.php">Contact us </a></li>
+					<li><a href="contactus.php">Contact us</a></li>
 					<li><button type="button" class=" navbar-form navbar-left btn btn-primary">Free Sign up</button></li>
 				
 				</ul>
