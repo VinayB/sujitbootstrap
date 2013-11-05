@@ -11,7 +11,7 @@
     <section class="container">
 			<div class="content row">
 				<section id="branding" class="sidebar col col-lg-3">
-				<a href="index.php"><img src="images/misc/logo.png" alt ="Logo for Ezee serv"> </a> http://localhost/sujitbootstrap/images/misc/0101.jpg
+				<a href="index.php"><img src="images/misc/logo.png" alt ="Logo for Ezee serv"> </a>
 				</section>  <!--Branding -->
 				<section class="main col col-lg-9">
 				<?php include "_/components/php/header.php"; ?>
