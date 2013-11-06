@@ -25,10 +25,16 @@
 					
 				</div>
 		
+		
+		
 	 </section> <!-- Container-->
-			<?php include "_/components/php/footer.php"; ?>		
-	<section class="Container">
 	
+	<section class="Container">
+	 <?php include "_/components/php/middlePart.php"; ?>	
+	</section>
+	
+	<section class="Container">
+	<?php include "_/components/php/footer.php"; ?>		
 	</section>
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/_myscript.js"></script>
